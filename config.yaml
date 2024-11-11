@@ -139,4 +139,13 @@ endpoints:
           - zanityrp-smol
           - airoboros-70b
           - magnum-12b
+        fetch: true
+      titleConvo: true
+      titleModel: llama-3.1-8b-instruct
+      summarize: false
+      summaryModel: llama-3.1-8b-instruct
+      forcePrompt: false
+      dropParams: []
+      iconURL: >-
+        https://cdn.discordapp.com/icons/1268484294779736065/fb280e01dae7d8f210de2099b8cbd908.webp
       modelDisplayLabel: Zanity
