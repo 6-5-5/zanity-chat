@@ -1,0 +1,28 @@
+name: Update Models
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"  # Run every 4 hours
+  workflow_dispatch:
+
+jobs:
+  update-models-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run update script
+        run: |
+          node updateModels.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add config.yaml
+          git commit -m 'Update default models in config.yaml'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
