@@ -127,6 +127,7 @@ endpoints:
           - qwen2-vl-7b-instruct
           - qwen2-vl-72b-instruct
           - qwen2.5-72b-instruct
+          - qwen2.5-coder-32b
           - deepseek-v2.5
           - pixtral-12b-2409
           - yandexgpt-3-pro
