@@ -113,6 +113,7 @@ endpoints:
           - toppy-m-7b
           - dolphin-mixtral-8x7b
           - l3-70b-euryale-v2.1
+          - zanity-rp-large
           - lzlv_70b_fp16
           - WizardLM-2-7B
           - WizardLM-2-8x22B
