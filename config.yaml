@@ -58,7 +58,7 @@ endpoints:
           - claude-3-opus
           - claude-3.5-sonnet
           - claude-3-5-haiku-20241022
-          - claude-3-5-sonnet-20241022
+          - claude-3.5-sonnet-rp
           - claude-2.1
           - qwen-max-0428
           - yi-large-preview
