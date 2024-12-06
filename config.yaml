@@ -21,6 +21,7 @@ endpoints:
           - gpt-4o-unfiltered
           - o1-mini
           - o1-preview
+          - o1
           - gpt-4o-2024-08-06
           - gpt-4o-2024-05-13
           - gpt-4o-mini
