@@ -37,6 +37,7 @@ endpoints:
           - llama-3-70b-instruct
           - llama-3.1-8b-instruct
           - llama-3.1-70b-instruct
+          - llama-3.3-70b-instruct
           - llama-3.1-nemotron-70b
           - llama-3.1-405b-instruct
           - llama-3.1-sonar-small-128k-online
@@ -51,6 +52,7 @@ endpoints:
           - gemini-1.5-flash-latest
           - gemini-1.5-pro-latest
           - gemini-1.5-experimental
+          - gemini-exp-1206
           - gemini-exp-1114
           - nemotron-4-340b
           - claude-3-haiku
