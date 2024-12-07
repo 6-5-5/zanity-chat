@@ -64,6 +64,7 @@ endpoints:
           - claude-3.5-sonnet:free
           - claude-2.1
           - qwen-max-0428
+          - qwq-32b-preview
           - yi-large-preview
           - yi-large
           - yi-1.5-34b-chat
@@ -94,9 +95,6 @@ endpoints:
           - mistral-large-2407
           - mistral-large
           - grok-2
-          - llava-1.5-7b
-          - mistral-7b-instruct-v0.1
-          - mistral-7b-instruct-v0.2
           - mistral-7b-instruct-v0.3
           - mixtral-8x7B-instruct
           - mixtral-8x22b-instruct
@@ -141,7 +139,6 @@ endpoints:
           - gigachat
           - gigarp-alpha
           - gigarp-beta
-          - reflection-70b
           - zanityrp-smol
           - airoboros-70b
           - magnum-12b
