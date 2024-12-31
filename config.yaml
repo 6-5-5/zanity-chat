@@ -66,6 +66,7 @@ endpoints:
           - claude-3.5-sonnet-rp
           - claude-3.5-sonnet:free
           - claude-2.1
+          - deepseek-v3
           - qwen-max-0428
           - qwq-32b-preview
           - yi-large-preview
@@ -81,13 +82,8 @@ endpoints:
           - command-r-plus-08-2024
           - command-plus-08-2024
           - command-r
-          - gemma-1.1-7b-it
-          - gemma-1.1-2b-it
-          - codestral
           - mistral-large-2402
           - mistral-medium
-          - glm-4
-          - glm-4-0116
           - dbrx-instruct
           - zephyr-141b
           - olmo-7b-instruct
