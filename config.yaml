@@ -63,8 +63,6 @@ endpoints:
           - claude-3.5-sonnet
           - claude-3-5-sonnet-20241022
           - claude-3-5-haiku-20241022
-          - claude-3.5-sonnet-rp
-          - claude-3-opus-rp
           - claude-3.5-sonnet:free
           - claude-2.1
           - deepseek-v3
