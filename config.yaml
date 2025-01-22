@@ -56,6 +56,7 @@ endpoints:
           - gemini-2.0-flash-exp
           - gemini-2.0-flash-thinking-exp
           - gemini-exp-1114
+          - minimax-01
           - nemotron-4-340b
           - claude-3-haiku
           - claude-3-sonnet
