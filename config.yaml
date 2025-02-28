@@ -36,6 +36,7 @@ endpoints:
           - gpt-4-turbo
           - deepseek-r1
           - deepseek-r1-zero
+          - grok-3
           - llama-3-8b-instruct
           - llama-3-70b-instruct
           - llama-3.1-8b-instruct
