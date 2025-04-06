@@ -38,6 +38,8 @@ endpoints:
           - deepseek-r1
           - deepseek-v3-0324
           - deepseek-r1-zero
+          - llama-4-maverick
+          - llama-4-scout
           - llama-3-8b-instruct
           - llama-3-70b-instruct
           - llama-3.1-8b-instruct
