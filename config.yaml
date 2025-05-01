@@ -115,6 +115,9 @@ endpoints:
           - qwen1.5-4b-chat
           - qwen1.5-7b-chat
           - qwen2-72b-instruct
+          - glm-z1-32b
+          - deepseek-prover-v2
+          - qwen3-235b-a22b
           - qwen1.5-110b-chat
           - deepseek-coder-6.7b
           - discolm-german-7b
