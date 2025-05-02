@@ -78,6 +78,8 @@ endpoints:
           - claude-3.5-sonnet:free
           - claude-2.1
           - deepseek-v3
+          - phi-4-reasoning
+          - deepseek-r1t-chimera
           - qwen-max-0428
           - qwq-32b-preview
           - yi-large-preview
