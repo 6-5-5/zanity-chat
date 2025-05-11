@@ -119,7 +119,7 @@ endpoints:
           - qwen2-72b-instruct
           - glm-z1-32b
           - deepseek-prover-v2
-          - qwen3-235b-a22b
+          - qwq-32b-arliai-rpr
           - qwen1.5-110b-chat
           - deepseek-coder-6.7b
           - discolm-german-7b
