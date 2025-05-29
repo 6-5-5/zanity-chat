@@ -83,6 +83,7 @@ endpoints:
           - deepseek-v3
           - phi-4-reasoning
           - deepseek-r1t-chimera
+          - deepseek-r1-0528
           - qwen-max-0428
           - qwq-32b-preview
           - yi-large-preview
