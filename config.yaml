@@ -53,6 +53,9 @@ endpoints:
           - llama-3.3-70b-instruct
           - llama-3.1-nemotron-70b
           - llama-3.1-405b-instruct
+          - sonar
+          - sonar-pro
+          - sonar-reasoning
           - llama-3.2-1b-instruct
           - llama-3.2-3b-instruct
           - llama-3.2-90b-vision-instruct
