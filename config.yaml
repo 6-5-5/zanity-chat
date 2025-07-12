@@ -43,6 +43,7 @@ endpoints:
           - deepseek-v3-0324
           - deepseek-r1-zero
           - grok-3
+          - grok-4
           - grok-3-mini
           - llama-4-maverick
           - llama-4-scout
